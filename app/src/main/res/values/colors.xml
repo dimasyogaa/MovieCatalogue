@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_pastel_1">#FDD998</color>
+    <color name="orange_pastel_2">#E19C26</color>
+    <color name="orange_pastel_3">#D18605</color>
+    <color name="orange_50">#FFF3E0</color>
+    <color name="orange_100">#FFCC7A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="black_34">#121212</color>
+    <color name="black_35">#292725</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="placeholder">#6FB6B6B6</color>
+</resources>
